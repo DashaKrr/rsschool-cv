@@ -6,4 +6,4 @@
 4. *Skills* : java,kotlin, GIT
 5. *Experience*: I don't have,but I wish
 6. *Education* : basic programming courses for java, videos on YouTube
-7. *English* : Intermediate
+7. *English* : Intermediate (B)
